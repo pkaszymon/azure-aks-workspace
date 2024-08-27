@@ -21,6 +21,9 @@
 				"ms-vscode-remote.remote-containers",
 				"mohamedfaizal.tf-az-codesnippet",
 				"ms-vscode.vscode-node-azure-pack",
+				"ms-kubernetes-tools.vscode-kubernetes-tools",
+				"eamodio.gitlens",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
